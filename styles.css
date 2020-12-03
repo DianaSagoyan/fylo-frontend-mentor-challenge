@@ -9,6 +9,12 @@
     color: #fff;
 }
 
+
+
 .nav{
     justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
 }
+
