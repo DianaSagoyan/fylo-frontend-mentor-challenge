@@ -1,5 +1,14 @@
-.header-section{
+*, *::before, *::after{
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-section{
     background-color: hsl(217, 28%, 15%);
     color: #fff;
+}
+
+.nav{
+    justify-content: space-around;
 }
