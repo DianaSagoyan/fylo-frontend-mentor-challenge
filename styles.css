@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+ font-family: 'Open Sans', sans-serif;
+}
+
 /* font-family: 'Raleway', sans-serif; 
 font-family: 'Open Sans', sans-serif;
 */
@@ -31,3 +35,13 @@ font-family: 'Open Sans', sans-serif;
 .intro-image{
     margin: 5%;
 }
+
+/* .intro-header{
+    font-family: 'Raleway', sans-serif; 
+    font-weight: 900;
+} */
+
+
+
+
+
