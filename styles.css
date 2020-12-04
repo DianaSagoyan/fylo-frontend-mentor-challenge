@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+/* font-family: 'Raleway', sans-serif; 
+font-family: 'Open Sans', sans-serif;
+*/
+
+/* Header section */
+
 .header-section{
     background-color: hsl(217, 28%, 15%);
     color: #fff;
@@ -20,4 +26,8 @@
 .nav-link{
     list-style: none;
     display: inline-block;
+}
+
+.intro-image{
+    margin: 5%;
 }
