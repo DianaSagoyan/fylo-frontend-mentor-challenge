@@ -39,9 +39,12 @@ font-family: 'Open Sans', sans-serif;
 .intro-heading{
     font-family: 'Raleway', sans-serif; 
     font-weight: 900;
-    padding: 4% 20%;
+    padding: 3% 20%;
 }
 
+.intro-paragraph{
+    padding: 0 32%;
+}
 
 
 
