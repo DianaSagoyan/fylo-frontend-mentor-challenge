@@ -47,10 +47,8 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .intro-btn{
-    border-bottom-left-radius: 20%;
-    border-top-left-radius: 20%;
-    bor
-    width: 20%;
+    border-radius: 50px;
+    width: 200px;
 }
 
 
