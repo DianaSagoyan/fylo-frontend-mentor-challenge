@@ -46,6 +46,13 @@ font-family: 'Open Sans', sans-serif;
     padding: 0 32%;
 }
 
+.intro-btn{
+    border-bottom-left-radius: 20%;
+    border-top-left-radius: 20%;
+    bor
+    width: 20%;
+}
+
 
 
 
