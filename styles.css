@@ -6,6 +6,12 @@
 
 body{
  font-family: 'Open Sans', sans-serif;
+ /* color: #fff; */
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Raleway', sans-serif;  
+    font-weight: bold;
 }
 
 /* font-family: 'Raleway', sans-serif; 
@@ -61,8 +67,27 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .testimonial{
-    padding: 5%;
+    padding: 7%;
+    text-align: center;
 }
+
+
+/* Stay productive */
+
+.stay-productive{
+    background-color: hsl(218, 28%, 13%);
+    color: #fff;
+    padding: 5%;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
 
 
 
