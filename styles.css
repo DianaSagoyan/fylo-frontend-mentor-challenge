@@ -52,5 +52,14 @@ font-family: 'Open Sans', sans-serif;
 }
 
 
+/* Options */
+
+.options{
+    background-color: hsl(218, 28%, 13%);
+    color: #fff;
+    background-image: url("images/bg-curvy-desktop.svg");
+}
+
+
 
 
