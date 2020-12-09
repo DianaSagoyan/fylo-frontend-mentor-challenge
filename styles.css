@@ -85,8 +85,14 @@ font-family: 'Open Sans', sans-serif;
     text-align: left;
 }
 
+.productive-header{
+    font-size: 2.5rem;
+    padding-right: 30%;
+}
+
 .stay-productive-pgph{
     margin-top: 7%;
+    padding-right: 8%;
 }
 
 .stay-productive-pgph p{
