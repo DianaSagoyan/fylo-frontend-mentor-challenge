@@ -71,6 +71,10 @@ font-family: 'Open Sans', sans-serif;
     text-align: center;
 }
 
+.testimonial-header{
+    padding: 5% 0 3%;
+}
+
 
 /* Stay productive */
 
@@ -81,6 +85,17 @@ font-family: 'Open Sans', sans-serif;
     text-align: left;
 }
 
+.stay-productive-pgph{
+    margin-top: 7%;
+}
+
+.stay-productive-pgph p{
+    padding-top: 2%;
+}
+
+.stay-productive-pgph h3{
+    padding-bottom: 2%;
+}
 
 
 
