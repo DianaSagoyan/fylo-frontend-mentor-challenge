@@ -115,6 +115,11 @@ font-family: 'Open Sans', sans-serif;
     padding: 5%;
 }
 
+.opinion-image{
+    border-radius: 100%;
+    width: 12%;
+}
+
 
 
 
