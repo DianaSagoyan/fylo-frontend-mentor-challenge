@@ -109,13 +109,14 @@ font-family: 'Open Sans', sans-serif;
     background-color: hsl(218, 28%, 13%) ;
     color: #fff;
     /* padding: 0 5%; */
+    padding-left: 10%
 }
 
 .opinion{
     padding: 3%;
-    border: 2px solid blueviolet;
     margin: 2%;
     background-color: hsl(219, 30%, 18%);
+    font-size: 14px;
 }
 
 .opinion-image{
