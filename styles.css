@@ -108,10 +108,7 @@ font-family: 'Open Sans', sans-serif;
 .opinions{
     background-color: hsl(218, 28%, 13%) ;
     color: #fff;
-    /* padding: 0 5%; */
-    padding-left: 10%;
-    padding-top: 5%;
-    padding-bottom: 30%;
+  
 }
 
 .opinion{
