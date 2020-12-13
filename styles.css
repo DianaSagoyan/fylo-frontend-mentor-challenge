@@ -116,7 +116,7 @@ font-family: 'Open Sans', sans-serif;
 
 .opinion{
     padding: 3% 2% 2%;
-    margin: 2%;
+    margin: 0 2%;
     background-color: hsl(219, 30%, 18%);
     font-size: 13px;
 }
