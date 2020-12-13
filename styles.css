@@ -112,6 +112,7 @@ font-family: 'Open Sans', sans-serif;
     padding-bottom: 30%;
     flex-direction: row;
     padding-top: 7%;
+    position: relative;
 }
 
 .opinion{
@@ -141,7 +142,11 @@ font-family: 'Open Sans', sans-serif;
     color: #fff;
     width: 60%;
     padding: 5% 7%;
-    margin: 0 auto;
+    /* margin: 0 auto; */
+    position: absolute;
+    margin-top: 18%;
+    margin-left: 12%;
+    z-index: 1;
 }
 
 
