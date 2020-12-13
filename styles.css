@@ -158,14 +158,21 @@ font-family: 'Open Sans', sans-serif;
 }
 
 
+/* Information */
+
+.information{
+    background-color: hsl(216, 53%, 9%);
+    color: #fff;
+}
 
 
 
+/* Footer */
 
-
-
-
-
+/* footer{
+    background-color: hsl(216, 53%, 9%);
+    color: #fff;
+} */
 
 
 
