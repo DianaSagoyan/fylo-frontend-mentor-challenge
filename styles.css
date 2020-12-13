@@ -52,7 +52,7 @@ font-family: 'Open Sans', sans-serif;
     padding: 0 32%;
 }
 
-.intro-btn{
+.section-btn{
     border-radius: 50px;
     width: 200px;
 }
@@ -142,11 +142,19 @@ font-family: 'Open Sans', sans-serif;
     color: #fff;
     width: 60%;
     padding: 5% 7%;
-    /* margin: 0 auto; */
     position: absolute;
     margin-top: 18%;
     margin-left: 12%;
     z-index: 1;
+    text-align: center;
+}
+
+.sign-up h3{
+    padding-bottom: 3%;
+}
+
+.sign-up p{
+    font-size: 15px;
 }
 
 
