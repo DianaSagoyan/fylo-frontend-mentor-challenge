@@ -134,7 +134,15 @@ font-family: 'Open Sans', sans-serif;
 }
 
 
+/* Sign Up */
 
+.sign-up{
+    background-color: hsl(219, 30%, 18%);
+    color: #fff;
+    width: 60%;
+    padding: 5% 7%;
+    margin: 0 auto;
+}
 
 
 
