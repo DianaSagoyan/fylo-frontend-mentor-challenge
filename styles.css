@@ -163,16 +163,22 @@ font-family: 'Open Sans', sans-serif;
 .information{
     background-color: hsl(216, 53%, 9%);
     color: #fff;
-    padding: 17% 10% 10%;
+    padding: 17% 10% 5%;
 }
 
 .information-ul{
     display: inline-block;
     list-style: none;
+    margin: 3% 8% 3% 3%;
+}
+
+.information-ul li:not(:last-child){
+    margin-bottom: 10px;
 }
 
 .information p{
     display: inline-block;
+    padding: 3% 10%;
 }
 
 
