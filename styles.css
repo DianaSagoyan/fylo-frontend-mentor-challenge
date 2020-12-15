@@ -163,6 +163,16 @@ font-family: 'Open Sans', sans-serif;
 .information{
     background-color: hsl(216, 53%, 9%);
     color: #fff;
+    padding: 17% 10% 10%;
+}
+
+.information-ul{
+    display: inline-block;
+    list-style: none;
+}
+
+.information p{
+    display: inline-block;
 }
 
 
