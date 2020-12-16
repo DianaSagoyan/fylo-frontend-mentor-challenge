@@ -164,6 +164,8 @@ font-family: 'Open Sans', sans-serif;
     background-color: hsl(216, 53%, 9%);
     color: #fff;
     padding: 17% 10% 5%;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .information-ul{
@@ -172,13 +174,19 @@ font-family: 'Open Sans', sans-serif;
     margin: 3% 8% 3% 3%;
 }
 
+
+.info-brand{
+    width: 10%;
+    height: 10%;
+}
+
 .information-ul li:not(:last-child){
     margin-bottom: 10px;
 }
 
 .information p{
     display: inline-block;
-    padding: 3% 10%;
+    padding: 3%;
 }
 
 
