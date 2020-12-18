@@ -164,8 +164,8 @@ font-family: 'Open Sans', sans-serif;
     background-color: hsl(216, 53%, 9%);
     color: #fff;
     padding: 17% 10% 5%;
-    display: flex;
-    justify-content: flex-end;
+    /* display: flex; */
+    /* justify-content: flex-end; */
     /* justify-content: flex-end; */
 }
 
@@ -179,15 +179,22 @@ font-family: 'Open Sans', sans-serif;
 .info-brand{
     width: 10%;
     height: 10%;
+    display: block;
 }
 
 .information-ul li:not(:last-child){
     margin-bottom: 10px;
 }
 
+.lists{
+    display: flex;
+    align-items: baseline;
+}
+
 .info-paragraph{
     display: inline-block;
-    padding: 3%;
+    width: 30%;
+    /* padding-left: 35%; */
 }
 
 
