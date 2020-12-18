@@ -146,6 +146,7 @@ font-family: 'Open Sans', sans-serif;
     margin: 0 2%;
     background-color: hsl(219, 30%, 18%);
     font-size: 13px;
+    box-shadow: 10px 10px hsl(217, 28%, 15%);
 }
 
 .opinion-image{
@@ -173,6 +174,7 @@ font-family: 'Open Sans', sans-serif;
     margin-left: 12%;
     z-index: 1;
     text-align: center;
+    box-shadow: 10px 10px hsl(217, 28%, 15%);
 }
 
 .sign-up h3{
