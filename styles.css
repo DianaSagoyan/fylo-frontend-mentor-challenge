@@ -164,6 +164,7 @@ font-family: 'Open Sans', sans-serif;
     background-color: hsl(216, 53%, 9%);
     color: #fff;
     padding: 17% 10% 5%;
+    font-size: 14px;
     /* display: flex; */
     /* justify-content: flex-end; */
     /* justify-content: flex-end; */
@@ -175,11 +176,20 @@ font-family: 'Open Sans', sans-serif;
     margin: 3% 8% 3% 3%;
 }
 
+.tel-mail li{
+    width: 120%;
+    margin-left: 7%;
+}
+
 
 .info-brand{
     width: 10%;
     height: 10%;
     display: block;
+}
+
+.info-icon{
+    margin-right: 2%;
 }
 
 .information-ul li:not(:last-child){
