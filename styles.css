@@ -190,6 +190,7 @@ font-family: 'Open Sans', sans-serif;
 
 .info-icon{
     margin-right: 2%;
+    font-size: 20px;
 }
 
 .information-ul li:not(:last-child){
