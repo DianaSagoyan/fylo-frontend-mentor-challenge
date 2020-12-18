@@ -115,6 +115,12 @@ font-family: 'Open Sans', sans-serif;
     padding-right: 8%;
 }
 
+.stay-productive-link{
+    text-decoration: underline;
+    color: hsl(176, 68%, 64%);
+
+}
+
 .stay-productive-pgph p{
     padding-top: 2%;
 }
@@ -175,6 +181,18 @@ font-family: 'Open Sans', sans-serif;
 
 .sign-up p{
     font-size: 15px;
+}
+
+::placeholder{
+    color: #c9cbff;
+    padding-left: 3%;
+}
+
+.sign-up input{
+    width: 55%;
+    border-radius: 50px;
+    height: 40px;
+    margin: 3% 5%;
 }
 
 
