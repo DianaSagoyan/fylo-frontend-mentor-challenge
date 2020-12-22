@@ -261,12 +261,34 @@ footer{
 
 
 @media  (max-width: 500px){
+
+    /* Header section */
+
    .navbar-brand{
        width: 30%;
    }
 
    .navbar-section ul{
        padding-top: 3%;
+   }
+
+   .intro-image{
+       width: 85%;
+       padding-top: 3%;
+   }
+
+   .intro-heading{
+       font-size: 30px;
+       padding: 5% 0;
+   }
+
+   .intro-paragraph{
+       padding: 0 15% 5%;
+   }
+
+   .section-btn{
+       padding: 5%;
+       width: 70%;
    }
 }
 
