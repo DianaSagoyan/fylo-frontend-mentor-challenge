@@ -261,12 +261,13 @@ footer{
 
 
 @media  (max-width: 500px){
-    footer{
-        background-color: blue;
-        color: #fff;
-        text-align: center;
-        font-size: 10px;
-    }
+   .navbar-brand{
+       width: 30%;
+   }
+
+   .navbar-section ul{
+       padding-top: 3%;
+   }
 }
 
 
