@@ -340,18 +340,30 @@ footer{
 
     .quotes{
         width: 30px;
-        margin-left: 2%;
+        margin-left: 5%;
     }
 
     .opinion{
         width: 75%;
         margin-bottom: 7%;
-        margin-left: 5%;
+        margin-left: 8%;
     }
 
     .opinion p{
         padding: 3%;
         padding-bottom: 0;
+    }
+
+    .opinion-image{
+        padding-left: 2%;
+    }
+
+
+    /* Sign-up */
+
+    .sign-up{
+        width: 80%;
+        height: 40%;
     }
 }
 
