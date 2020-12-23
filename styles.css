@@ -324,10 +324,34 @@ footer{
 
     .stay-productive-pgph{
         padding-left: 7%;
+        padding-top: 3%;
     }
 
     .stay-productive-pgph p{
         font-size: 15px;
+    }
+
+    /* Opinions */
+
+    .opinions{
+        align-items: center;
+        padding-top: 30%;
+    }
+
+    .quotes{
+        width: 30px;
+        margin-left: 2%;
+    }
+
+    .opinion{
+        width: 75%;
+        margin-bottom: 7%;
+        margin-left: 5%;
+    }
+
+    .opinion p{
+        padding: 3%;
+        padding-bottom: 0;
     }
 }
 
