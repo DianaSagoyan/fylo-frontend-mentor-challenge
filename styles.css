@@ -307,6 +307,28 @@ footer{
         min-height: 500px;
         padding-bottom: 20%;
     }
+
+
+    /* Stay productive */
+
+    .productive-image{
+        width: 100%;
+        padding: 3%;
+        align-items: center;
+    }
+
+    .productive-header{
+        font-size: 23px;
+        padding: 0;
+    }
+
+    .stay-productive-pgph{
+        padding-left: 7%;
+    }
+
+    .stay-productive-pgph p{
+        font-size: 15px;
+    }
 }
 
 
