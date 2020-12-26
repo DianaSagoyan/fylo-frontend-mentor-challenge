@@ -336,6 +336,7 @@ footer{
     .opinions{
         align-items: center;
         padding-top: 30%;
+        padding-bottom: 90%;
     }
 
     .quotes{
@@ -363,7 +364,10 @@ footer{
 
     .sign-up{
         width: 80%;
-        height: 40%;
+        height: 30%;
+        margin: auto 0;
+        margin-left: 2%;
+        margin-top: 35%;
     }
 }
 
