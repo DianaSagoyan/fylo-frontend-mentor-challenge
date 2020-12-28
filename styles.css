@@ -410,16 +410,31 @@ footer{
     .lists{
         display: flex;
         flex-direction: column;
+        font-size: 15px;
+        line-height: 2rem;2
     }
 
     
     .info-icon{
        font-size: 1.5rem;
-       margin-left: 0;
+       width: 10%;
+       margin-right: 7%;
+       display: inline;
+       /* padding-right: 5%; */
+       /* margin: 0; */
     }
 
-    .information-ul{
+    .information-ul li{
         margin-left: 0;
+    }
+
+    .lists .info-icon{
+        display: inline;
+    }
+
+    .info-paragraph{
+        width: 100%;
+        float: right;
     }
 
 }
