@@ -227,7 +227,7 @@ font-family: 'Open Sans', sans-serif;
     display: block;
 }
 
-.info-icon{
+.foot-icon{
     margin-right: 2%;
     font-size: 20px;
 }
@@ -388,10 +388,40 @@ footer{
 
     .sign-up input{
         width: 100%;
-        padding: 8%;
+        padding: 9%;
         margin: 5% 0;
         text-align: center;
     }
+
+    /* Information */
+
+    .information{
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* Lists */
+
+    .info-brand{
+        padding-top: 60%;
+        width: 65%;
+    }
+
+    .lists{
+        display: flex;
+        flex-direction: column;
+    }
+
+    
+    .info-icon{
+       font-size: 1.5rem;
+       margin-left: 0;
+    }
+
+    .information-ul{
+        margin-left: 0;
+    }
+
 }
 
 
