@@ -7,7 +7,7 @@
 body{
  font-family: 'Open Sans', sans-serif;
  font-size: 14px;
- /* color: #fff; */
+ color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -15,15 +15,10 @@ h1, h2, h3, h4, h5, h6{
     font-weight: bold;
 }
 
-/* font-family: 'Raleway', sans-serif; 
-font-family: 'Open Sans', sans-serif;
-*/
-
 /* Header section */
 
 .header-section{
     background-color: hsl(217, 28%, 15%);
-    color: #fff;
     padding: 5% 7%;
     text-align: center;
     position: relative;
@@ -82,7 +77,6 @@ font-family: 'Open Sans', sans-serif;
 
 .options{
     background-color: hsl(218, 28%, 13%);
-    color: #fff;
     background-image: url("images/bg-curvy-desktop.svg");
 }
 
@@ -100,7 +94,6 @@ font-family: 'Open Sans', sans-serif;
 
 .stay-productive{
     background-color: hsl(218, 28%, 13%);
-    color: #fff;
     padding: 5%;
     text-align: left;
 }
@@ -133,7 +126,6 @@ font-family: 'Open Sans', sans-serif;
 
 .opinions{
     background-color: hsl(218, 28%, 13%) ;
-    color: #fff;
     padding-left: 7%;
     padding-bottom: 30%;
     flex-direction: row;
@@ -166,7 +158,6 @@ font-family: 'Open Sans', sans-serif;
 
 .sign-up{
     background-color: hsl(219, 30%, 18%);
-    color: #fff;
     width: 60%;
     padding: 5% 7%;
     position: absolute;
@@ -186,7 +177,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 ::placeholder{
-    color: #c9cbff;
+    /* color: #c9cbff; */
     padding-left: 3%;
 }
 
@@ -202,11 +193,7 @@ font-family: 'Open Sans', sans-serif;
 
 .information{
     background-color: hsl(216, 53%, 9%);
-    color: #fff;
     padding: 17% 10% 5%;
-    /* display: flex; */
-    /* justify-content: flex-end; */
-    /* justify-content: flex-end; */
 }
 
 .information-ul{
@@ -244,7 +231,6 @@ font-family: 'Open Sans', sans-serif;
 .info-paragraph{
     display: inline-block;
     width: 30%;
-    /* padding-left: 35%; */
 }
 
 
@@ -253,7 +239,6 @@ font-family: 'Open Sans', sans-serif;
 
 footer{
     background-color: hsl(216, 53%, 9%);
-    color: #fff;
     text-align: center;
     font-size: 10px;
 }
@@ -395,9 +380,13 @@ footer{
 
     /* Information */
 
-    .information{
+    /* .information{
         display: flex;
         flex-direction: column;
+    } */
+    
+    .information-ul{
+        display: block;
     }
 
     /* Lists */
@@ -411,32 +400,27 @@ footer{
         display: flex;
         flex-direction: column;
         font-size: 15px;
-        line-height: 2rem;2
+        line-height: 2rem;
     }
 
-    
-    .info-icon{
-       font-size: 1.5rem;
-       width: 10%;
-       margin-right: 7%;
-       /* padding-right: 5%; */
-       /* margin: 0; */
-    }
-
-    .information-ul li{
-        margin-left: 0;
-    }
+    /* .lists{
+        display: flex;
+        flex-direction: row;
+    } */
 
     .foot-icons{
         display: flex;
         flex-direction: row;
-        padding-left: 45%;
+    }
+    
+    .info-icon{
+       font-size: 1.5rem;
+       width: 5%;
+       margin-right: 7%;   
     }
 
-    .foot-icon{
-        padding: 7%;
-        width: 30%;
-        
+    .information-ul li{
+        margin-left: 0;
     }
 
     .info-paragraph{
