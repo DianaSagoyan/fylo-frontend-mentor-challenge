@@ -4,4 +4,4 @@
 
 ## Hi! 👋
 
-Completed one of the challenges of [Frontend Mentor] (www.frontendmentor.io). Made a responsive page to fit both desktop and mobile size.To complete the challenge I've mostly used HTML and CSS.
+Completed one of the challenges of [Frontend Mentor](www.frontendmentor.io). Made a responsive page to fit both desktop and mobile size.To complete the challenge I've mostly used HTML and CSS.
