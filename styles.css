@@ -214,8 +214,13 @@ h1, h2, h3, h4, h5, h6{
     display: block;
 }
 
+.foot-icons{
+    display: flex;
+    flex-direction: row;
+}
+
 .foot-icon{
-    margin-right: 2%;
+    margin-right: 15%;
     font-size: 20px;
 }
 
@@ -379,14 +384,10 @@ footer{
     }
 
     /* Information */
-
-    /* .information{
-        display: flex;
-        flex-direction: column;
-    } */
     
     .information-ul{
         display: block;
+        padding-bottom: 8%;
     }
 
     /* Lists */
@@ -394,6 +395,7 @@ footer{
     .info-brand{
         padding-top: 60%;
         width: 65%;
+        padding-bottom: 20%;
     }
 
     .lists{
@@ -401,18 +403,13 @@ footer{
         flex-direction: column;
         font-size: 15px;
         line-height: 2rem;
-    }
-
-    /* .lists{
-        display: flex;
-        flex-direction: row;
-    } */
-
-    .foot-icons{
-        display: flex;
-        flex-direction: row;
+        display: inline;
     }
     
+    .foot-icons{
+        padding-left: 30%;
+    }
+
     .info-icon{
        font-size: 1.5rem;
        width: 5%;
@@ -425,7 +422,7 @@ footer{
 
     .info-paragraph{
         width: 100%;
-        float: right;
+        margin-left: 8%;
     }
 
 }
